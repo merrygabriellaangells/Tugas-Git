@@ -1,4 +1,5 @@
 # commit2
+#menambah baris baru
 data_panen = {
     'lokasi1': {
         'nama_lokasi': 'Kebun A',
