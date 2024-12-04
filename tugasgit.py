@@ -1,5 +1,5 @@
-# commit main2
-#merubah baris main
+# commit2
+#menambahbaris main
 data_panen = {
     'lokasi1': {
         'nama_lokasi': 'Kebun A',
