@@ -1,5 +1,9 @@
 # commit2
+<<<<<<< HEAD
 #menambahbaris main
+=======
+#menambah
+>>>>>>> baru
 data_panen = {
     'lokasi1': {
         'nama_lokasi': 'Kebun A',
